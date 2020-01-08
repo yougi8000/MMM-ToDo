@@ -6,7 +6,7 @@
   "author": "Grena",
   "license": "MIT",
   "dependencies": {
-    "ical": "^5.8.0"
+    "ical": "^0.6.0"
   },
   "repository": {
     "type": "git",
