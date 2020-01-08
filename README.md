@@ -1,5 +1,5 @@
 # Module: MMM-ToDo
-This module displays tasks from a .ical calendar, including priority, completion, title and date. It works like a charm with [Nexcloud Tasks](https://apps.nextcloud.com/apps/tasks) !
+This module displays tasks from a .ical calendar, including priority, completion, title and date. It works like a charm with [Nextcloud Tasks](https://apps.nextcloud.com/apps/tasks) !
 
 Symbol, Completion and Color Legend display may be enabled or disabled independently. The sort order can be fixed. 
 
@@ -8,6 +8,8 @@ Symbol, Completion and Color Legend display may be enabled or disabled independe
 <img alt="MMM-VigilanceMeteoFrance Screenshot #2" src="MMM-VigilanceMeteoFrance_screenshot2.png" align="top" height="148px">
 <img alt="MMM-VigilanceMeteoFrance Screenshot #3" src="MMM-VigilanceMeteoFrance_screenshot3.png" align="top" height="97px">
 </p>-->
+
+Source code inspired by [MagicMirror Calendar](https://github.com/MichMich/MagicMirror/tree/master/modules/default/calendar) and [Nextcloud Tasks](https://github.com/nextcloud/tasks). Thanks to the contributors :+1:
 
 [MagicMirror Project on Github](https://github.com/MichMich/MagicMirror)
 
