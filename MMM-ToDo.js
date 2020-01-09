@@ -284,11 +284,11 @@ Module.register("MMM-ToDo",{
 	// Convert priority's level to color
 	priority2color: function(level) {
 		if (level > 5) {
-			return "#3232ff";
+			return "#246fe0";
 		} else if (level == 5) {
-			return "#fff419";
+			return "#eb8909";
 		} else if (level > 0 && level < 5) {
-			return "#b30000";
+			return "#ac6560";
 		}
 	},
 
