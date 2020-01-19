@@ -70,7 +70,7 @@ Module.register("MMM-ToDo",{
 			return wrapper;
 		}
 
-		for (let i = 0; i < this.config.maximumEntries; i++) {
+		for (let i = 0; (i < this.config.maximumEntries && i < this.tasks.length); i++) {
 
 			var taskWrapper = document.createElement("tr");
 			taskWrapper.className = "normal";
